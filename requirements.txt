@@ -1,0 +1,6 @@
+flask
+pymongo
+python-dotenv
+pytesseract
+opencv-python
+gunicorn
